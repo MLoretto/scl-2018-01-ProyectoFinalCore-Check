@@ -4,6 +4,8 @@ El registro de visitantes en las empresas Latinoamericanas es un proceso en gene
 
 ![image](https://user-images.githubusercontent.com/39228885/47375438-a1ba2600-d6c6-11e8-8a0b-eacf5bee1f83.png)
 
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
 
 La interfaz permite:
 
