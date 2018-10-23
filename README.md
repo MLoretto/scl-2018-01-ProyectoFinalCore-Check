@@ -1,8 +1,9 @@
-# Proyecto Final Common Core
-
-## C H E C K
+# C H E C K 
 
 El registro de visitantes en las empresas Latinoamericanas es un proceso en general tedioso y manual. Lo común es que una persona esté en la recepción tomando nota - a veces con papel y lápiz - de cada visitante. Por razones de seguridad, usualmente piden a cada visitante dejar una identificación. Como vivimos en la era digital planteamos nuestra solución creando una interfaz que permite al visitante realizar a el mismo su propio ingreso en recepción por medio de una tablet, donde se solicitaran datos básicos de identificación además de una fotografía y firma por medio de la interfaz. 
+
+![image](https://user-images.githubusercontent.com/39228885/47375438-a1ba2600-d6c6-11e8-8a0b-eacf5bee1f83.png)
+
 
 La interfaz permite:
 

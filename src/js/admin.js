@@ -33,8 +33,9 @@ botonVerLista.addEventListener("click", event => {
     <p class="datos">Correo electrónico: ${mail}</p>
     <p class="datos">Registrado el: ${fecha}</p>
     </div>`
-        })
-    })
+        });
+        listaVisitasOpen = true;
+})
     /* <p>Visita a: ${residente}</p>     let residente= snapshot.val().collaboratorName; */
 
 
